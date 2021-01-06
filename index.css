@@ -1,0 +1,36 @@
+header {
+    background-color: rgb(0, 59, 187);
+    color: white;
+    padding: 10px ;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+nav{
+    background-color: rgb(230, 103, 124);
+    display: block;
+    width: 130px;
+    float: right;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+
+main{
+    background-color: pink;
+}
+
+aside{
+    background-color: plum;
+
+}
+
+footer{
+    background-color: lightcoral;
+    color: green;
+}
+
+img{
+    display: grid;
+    width: 400px;
+    grid-template-columns: 50% 50%;
+}
+
